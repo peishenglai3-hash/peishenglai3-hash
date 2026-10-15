@@ -39,7 +39,7 @@ I work at the intersection of sociology, human–AI knowledge production, digita
 
 `TypeScript` · `JavaScript` · `Python` · `Node.js` · `Vue` · `React` · `Phaser` · `FastAPI` · `XState` · `SQLite` · `JSONL` · `Git / GitHub`
 
-## 我的工作原则 · Principles
+## 工作原则 · Principles
 
 - 先保留证据，再做解释；把已验证事实、推断和未知项分开。
 - 让自动化提出候选，让确定性检查和人的确认决定是否升级为可复用成果。
@@ -48,10 +48,10 @@ I work at the intersection of sociology, human–AI knowledge production, digita
 
 ## 代表作品与荣誉 · Works & Recognition
 
-- 《答案之外》：社会学院毕业纪念 AI 短片
+- 《答案之外》：毕业纪念 AI 短片
 - 《她走过那条路》：长征主题 AI 数字影像
-- AI 反诈作品评选二等奖（校级）
-- 自强奋进奖学金、文体活动优秀奖学金
+- 技术反诈 project
+- she-xiao-hui 数字人
 
 ## 联系我 · Contact
 
