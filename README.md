@@ -1,5 +1,6 @@
 # 赖 MARK / Lai Peisheng
-
+AI Systems & Agent Engineering · Applied AI Research · Sociology
+Trying to understand how intelligent systems are built, evaluated, and improved — and how they work in the real world.
 > 社会科学研究 × AI 产品与原型 × 数字社会
 
 [![GitHub](https://img.shields.io/badge/GitHub-peishenglai3--hash-181717?logo=github&logoColor=white)](https://github.com/peishenglai3-hash) · [![Email](https://img.shields.io/badge/Email-peishenglai3%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:peishenglai3@gmail.com)
@@ -8,7 +9,10 @@
 
 我是赖 MARK（赖培胜），就读于华中科技大学社会学院社会学方向，关注数字社会、人工智能社会学、STS、HCI，以及生成式 AI 介入知识生产后的人机协作与社会技术互动。
 
-I work at the intersection of sociology, human–AI knowledge production, digital products, and open-source engineering. I like turning social questions into inspectable prototypes, and turning engineering experience back into researchable evidence.
+现阶段，我尤其关心一个技术问题：智能系统的能力究竟如何被构建、组织、训练、评估与改进？ 我正在围绕 Agent 工作流、检索与记忆、工具调用、软件系统与评测机制进行原型开发，并系统补充 Python、数学、机器学习和深度学习基础。
+社会科学仍是我重要的研究训练，但我不希望把每一个技术问题都提前解释成社会理论问题。我更愿意先理解机制、实现与证据，再讨论它们进入现实场景后带来的机会、约束和责任。
+
+I am an undergraduate student in sociology at Huazhong University of Science and Technology, learning AI engineering through hands-on projects. My current focus is on how intelligent systems work and how to evaluate them: agents, retrieval, memory, tool use, reproducible experiments, and reliable software. I also care about their consequences in real human settings.
 
 我的工作通常围绕三个问题展开：
 
