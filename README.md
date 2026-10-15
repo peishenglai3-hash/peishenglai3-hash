@@ -46,12 +46,9 @@ I work at the intersection of sociology, human–AI knowledge production, digita
 - 保留来源、异议、撤销、恢复、分叉和退出路径，不把历史压平为一个流畅答案。
 - 公开工程的同时保护私有历史、个人数据、原始会话和未授权材料。
 
-## 代表作品与荣誉 · Works & Recognition
-
-- 《答案之外》：毕业纪念 AI 短片
-- 《她走过那条路》：长征主题 AI 数字影像
-- 技术反诈 project
-- she-xiao-hui 数字人
+## 为什么持续开源 · Why Open Source
+我从 GitHub 和开放社区获得过许多帮助，因此也愿意把可公开的工程经验、测试方法与失败记录留给后来者。项目不必因为尚未成熟就被包装成完成品；只要来源清楚、边界明确，别人就有机会继续修正、质疑和发展它。
+功成不必在我。
 
 ## 联系我 · Contact
 
