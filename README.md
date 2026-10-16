@@ -27,7 +27,7 @@ I am an undergraduate student in sociology at Huazhong University of Science and
 | [Praxis Runtime](https://github.com/peishenglai3-hash/praxis-runtime) | 面向长期人机协作的 local-first TypeScript runtime：保存原始交互事件，重建派生状态，进行受约束的上下文规划、残差记录、反思提案与可争议资产管理。 | Engineering Preview · TypeScript / Node.js / SQLite |
 | [The Final Runtime Kernel](https://github.com/peishenglai3-hash/the_final-runtime-kernel) | 一个小型 Python runtime，把可重放的失败轨迹转化为有证据边界、范围意识和可撤销性的协议；坚持 JSONL 作为唯一持久化事实源。 | V1.0 · Python / JSONL · MIT |
 | [《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu_game) | 数字叙事游戏，把地方历史、社会实践与田野材料转化为可探索、可交互的叙事体验，并建立从内容锁定到场景、UI、音频和 AI 资产生产的协作流程。 | Playable project · Phaser / Vite / Vue |
-| [问津 · AI Social Survey Workbench](https://github.com/peishenglai3-hash/wenjin-ai-social-survey) | 我创建并主导开发的 AI 社会调查工作台，面向选题、方法论、田野工具、分析和研究工作流；以清理后的 Apache-2.0 基线重新公开，采用 BYOK 边界。 | Open-source baseline · FastAPI / React / Docker |
+| [问津 · AI Social Survey Workbench](https://github.com/peishenglai3-hash/wenjin-ai-social-survey-release) | 我创建并主导开发的 AI 社会调查工作台，面向选题、方法论、田野工具、分析和研究工作流；以清理后的 Apache-2.0 基线重新公开，采用 BYOK 边界。 | Open-source baseline · FastAPI / React / Docker |
 | [问津 · AI 社会调查辅助研究（历史档案）](https://github.com/peishenglai3-hash/wenjin.social-auto-research-HCI) | 早期的产品与开发档案，记录从需求分析、PWA 迭代到多模态工具探索的过程。 | Research / product archive |
 | [ALIS · AI 素养情境化访谈调查](https://github.com/peishenglai3-hash/alis-ai-literacy-survey) | 社会学取向的 AI 素养访谈系统：让 AI 参与语言生成，同时把评分、状态、研究导出与研究者判断留在可检验的结构中。 | Research prototype · React / Vite / XState / FastAPI |
 | [Codex Habitat](https://github.com/peishenglai3-hash/codex-habit) | 早期的本地优先个人记忆与 Agent 工作流原型，探索交互信号捕获、模式提取和上下文注入。 | Early prototype · JavaScript / Codex plugin |
