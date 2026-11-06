@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="records, sources, a temporary closure, and a person who can leave">
+  <style>
+    .lattice circle, .lattice line { stroke: #8A96A3; fill: #8A96A3; opacity: .45; stroke-width: 1.2; }
+    .cluster .node { fill: #8A96A3; opacity: .92; }
+    .cluster .edge { stroke: #8A96A3; opacity: .6; stroke-width: 1.2; }
+    .closure { fill: none; stroke: #8A96A3; stroke-opacity: .6; stroke-width: 1.6; stroke-dasharray: 8 12; animation: closemove 19s linear infinite; }
+    .exit { stroke: #B44B32; stroke-opacity: .85; stroke-width: 1.8; stroke-dasharray: 4 9; animation: exitpulse 9s ease-in-out infinite; }
+    .ring { fill: none; stroke: #B44B32; stroke-opacity: .85; stroke-width: 2; animation: exitpulse 9s ease-in-out infinite; }
+    @keyframes closemove { to { stroke-dashoffset: -72; } }
+    @keyframes exitpulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .closure, .exit, .ring { animation: none; } }
+  </style>
+  
+  <g class="lattice">
+  <line x1="54" y1="39" x2="152" y2="40"/>
+  <line x1="54" y1="39" x2="64" y2="87"/>
+  <line x1="54" y1="39" x2="157" y2="86"/>
+  <line x1="64" y1="87" x2="157" y2="86"/>
+  <line x1="64" y1="87" x2="58" y2="154"/>
+  <line x1="58" y1="154" x2="161" y2="149"/>
+  <line x1="58" y1="154" x2="67" y2="202"/>
+  <line x1="67" y1="202" x2="149" y2="209"/>
+  <line x1="152" y1="40" x2="254" y2="33"/>
+  <line x1="152" y1="40" x2="157" y2="86"/>
+  <line x1="157" y1="86" x2="249" y2="94"/>
+  <line x1="157" y1="86" x2="161" y2="149"/>
+  <line x1="161" y1="149" x2="258" y2="144"/>
+  <line x1="161" y1="149" x2="149" y2="209"/>
+  <line x1="161" y1="149" x2="251" y2="210"/>
+  <line x1="149" y1="209" x2="251" y2="210"/>
+  <line x1="254" y1="33" x2="351" y2="35"/>
+  <line x1="254" y1="33" x2="249" y2="94"/>
+  <line x1="249" y1="94" x2="343" y2="95"/>
+  <line x1="249" y1="94" x2="258" y2="144"/>
+  <line x1="249" y1="94" x2="348" y2="143"/>
+  <line x1="258" y1="144" x2="348" y2="143"/>
+  <line x1="258" y1="144" x2="251" y2="210"/>
+  <line x1="251" y1="210" x2="352" y2="204"/>
+  <line x1="351" y1="35" x2="442" y2="40"/>
+  <line x1="351" y1="35" x2="343" y2="95"/>
+  <line x1="351" y1="35" x2="450" y2="90"/>
+  <line x1="343" y1="95" x2="450" y2="90"/>
+  <line x1="343" y1="95" x2="348" y2="143"/>
+  <line x1="348" y1="143" x2="438" y2="153"/>
+  <line x1="348" y1="143" x2="352" y2="204"/>
+  <line x1="352" y1="204" x2="445" y2="198"/>
+  <line x1="442" y1="40" x2="545" y2="37"/>
+  <line x1="442" y1="40" x2="450" y2="90"/>
+  <line x1="450" y1="90" x2="537" y2="95"/>
+  <line x1="450" y1="90" x2="438" y2="153"/>
+  <line x1="438" y1="153" x2="542" y2="144"/>
+  <line x1="438" y1="153" x2="445" y2="198"/>
+  <line x1="438" y1="153" x2="536" y2="206"/>
+  <line x1="445" y1="198" x2="536" y2="206"/>
+  <line x1="545" y1="37" x2="537" y2="95"/>
+  <line x1="537" y1="95" x2="542" y2="144"/>
+  <line x1="542" y1="144" x2="536" y2="206"/>
+  <line x1="540" y1="64" x2="760" y2="80"/>
+  <line x1="535" y1="148" x2="770" y2="150"/>
+  <circle cx="54" cy="39" r="2"/>
+  <circle cx="64" cy="87" r="2"/>
+  <circle cx="58" cy="154" r="2"/>
+  <circle cx="67" cy="202" r="2"/>
+  <circle cx="152" cy="40" r="2"/>
+  <circle cx="157" cy="86" r="2"/>
+  <circle cx="161" cy="149" r="2"/>
+  <circle cx="149" cy="209" r="2"/>
+  <circle cx="254" cy="33" r="2"/>
+  <circle cx="249" cy="94" r="2"/>
+  <circle cx="258" cy="144" r="2"/>
+  <circle cx="251" cy="210" r="2"/>
+  <circle cx="351" cy="35" r="2"/>
+  <circle cx="343" cy="95" r="2"/>
+  <circle cx="348" cy="143" r="2"/>
+  <circle cx="352" cy="204" r="2"/>
+  <circle cx="442" cy="40" r="2"/>
+  <circle cx="450" cy="90" r="2"/>
+  <circle cx="438" cy="153" r="2"/>
+  <circle cx="445" cy="198" r="2"/>
+  <circle cx="545" cy="37" r="2"/>
+  <circle cx="537" cy="95" r="2"/>
+  <circle cx="542" cy="144" r="2"/>
+  <circle cx="536" cy="206" r="2"/>
+  </g>
+  <g class="cluster">
+  <line class="edge" x1="760" y1="80" x2="820" y2="62"/>
+  <line class="edge" x1="760" y1="80" x2="770" y2="150"/>
+  <line class="edge" x1="820" y1="62" x2="852" y2="120"/>
+  <line class="edge" x1="852" y1="120" x2="770" y2="150"/>
+  <line class="edge" x1="852" y1="120" x2="862" y2="168"/>
+  <line class="edge" x1="852" y1="120" x2="900" y2="110"/>
+  <line class="edge" x1="862" y1="168" x2="900" y2="110"/>
+  <circle class="node" cx="760" cy="80" r="3"/>
+  <circle class="node" cx="820" cy="62" r="3"/>
+  <circle class="node" cx="852" cy="120" r="3"/>
+  <circle class="node" cx="770" cy="150" r="3"/>
+  <circle class="node" cx="862" cy="168" r="3"/>
+  <circle class="node" cx="900" cy="110" r="3"/>
+  </g>
+  <path class="closure" d="M 914.32 154 A 132 84 0 1 1 914.32 70"/>
+  <line class="exit" x1="884" y1="112" x2="1058" y2="112"/>
+  <circle class="ring" cx="1078" cy="112" r="7"/>
+</svg>
