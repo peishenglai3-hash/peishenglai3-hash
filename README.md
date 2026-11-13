@@ -21,6 +21,16 @@
 >
 > —— 2026.10.29
 
+I am Lai Peisheng, also known as Lai Ziqing. I studied sociology as an undergraduate at Huazhong University of Science and Technology. My questions come from historical materialism; my point of entry is the engineering site and the apparatus of evaluation: how intelligence and human judgment are produced, assessed, and recognized within concrete institutions—and how they might be reopened.
+
+Over the past two years, I have moved between two kinds of work: turning real social materials and research questions into systems that can run, be tested, and rolled back; and asking what makes these systems count as “complete.”
+
+Currently working on: completing my qualifying paper, notes and videos on the sociology of education, Open Possibility Lab, and DSH Research Mode.
+
+> They need not be grand to deserve to exist.
+>
+> —— 2026.10.29
+
 <br clear="left">
 
 ## 能做什么
