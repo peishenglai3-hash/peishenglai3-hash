@@ -96,10 +96,10 @@
 <table>
 <tr>
 <td width="50%">
-<a href="https://peishenglai3-hash.github.io/desk/"><img src="https://raw.githubusercontent.com/peishenglai3-hash/peishenglai3-hash/main/assets/desk-loop.gif" alt="书桌：点击便利贴、笔记本、书架、电脑，右侧内容跟着换" width="440"></a>
+<a href="https://peishenglai3-hash.github.io/desk/"><img src="https://raw.githubusercontent.com/peishenglai3-hash/peishenglai3-hash/main/assets/desk-loop.gif" alt="书桌：点击便利贴、笔记本、书架、电脑，右侧内容跟着换" width="400"></a>
 </td>
 <td width="50%">
-<a href="https://peishenglai3-hash.github.io/sandbox/"><img src="https://raw.githubusercontent.com/peishenglai3-hash/peishenglai3-hash/main/assets/sandbox-loop.gif" alt="评价装置沙盒：拖动权重，二十个学生的排名当场重排，前五名换掉几个" width="440"></a>
+<a href="https://peishenglai3-hash.github.io/sandbox/"><img src="https://raw.githubusercontent.com/peishenglai3-hash/peishenglai3-hash/main/assets/sandbox-loop.gif" alt="评价装置沙盒：拖动权重，二十个学生的排名当场重排，前五名换掉几个" width="400"></a>
 </td>
 </tr>
 <tr>
