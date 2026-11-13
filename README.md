@@ -31,7 +31,7 @@
 |---|---|---|
 | 研究设计 | 把模糊的问题拆成可观测、可反驳的结构，并预先写清它证明不了什么 | [Open Possibility Lab](https://github.com/peishenglai3-hash/open-possibility-lab) |
 | 系统架构 | 把流程做成可回放的一等对象：原始事件、可重建状态、残差与反思 | [Praxis Runtime](https://github.com/peishenglai3-hash/praxis-runtime) · [TFRK](https://github.com/peishenglai3-hash/the_final-runtime-kernel) |
-| 前后端 | 一个人从数据层做到能玩的界面，含桌面打包 | [《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu_game) · [学工 AI 助手](https://github.com/peishenglai3-hash/student-affair-AI-assistant) |
+| 前后端 | 从数据层做到能玩的界面，含桌面打包 | [《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu_game) · [学工 AI 助手](https://github.com/peishenglai3-hash/student-affair-AI-assistant) |
 | 数据与测量 | 写量表、跑统计、把口径写进文档；知道一份问卷哪一步会失真 | [ALIS 量表](https://github.com/peishenglai3-hash/alis-ai-literacy-survey) · [cohortlens](https://github.com/peishenglai3-hash/cohortlens) |
 | 发布与运维 | 打 tag、发 Release、写变更说明；别人拿得到、跑得起来 | [DSH Research Mode Releases](https://github.com/peishenglai3-hash/dsh-research-mode/releases) |
 | 写作与表达 | 用第一人称写机制，不用形容词代替论证 | 本页 [#边界](#边界) · [Mohen-read](https://github.com/peishenglai3-hash/Mohen-read) |
