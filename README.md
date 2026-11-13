@@ -17,6 +17,10 @@
 
 现在在做：完成资格论文、教育社会学札记与视频、Open Possibility Lab、DSH Research Mode。
 
+> 它们不必伟大，也值得存在。
+>
+> —— 2026.10.29
+
 <br clear="left">
 
 ## 能做什么
