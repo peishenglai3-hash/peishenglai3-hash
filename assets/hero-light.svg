@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+<title id="t">赖选 · 主页号</title>
+<desc id="d">刊头：赖选（赖子清），社会学，华中科技大学。题记：把属于人的，交给人。</desc>
+<defs>
+  <style>
+    .draw{stroke-dasharray:1072;stroke-dashoffset:1072;animation:draw 1.1s cubic-bezier(.65,0,.35,1) .05s forwards}
+    .rise{opacity:0;animation:rise .95s cubic-bezier(.16,.84,.44,1) .6s forwards}
+    .fade{opacity:0;animation:fade .7s ease-out .3s forwards}
+    .stamp{opacity:0;transform-box:fill-box;transform-origin:center;animation:stamp .42s cubic-bezier(.34,1.56,.64,1) 1.72s forwards}
+    .slide{opacity:0;animation:slide 1.4s ease-out 2.05s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fade{to{opacity:1}}
+    @keyframes stamp{0%{opacity:0;transform:scale(1.65)}60%{opacity:1}100%{opacity:1;transform:scale(1)}}
+    @keyframes slide{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:translateX(0)}}
+    @media (prefers-reduced-motion: reduce){
+      .draw,.rise,.fade,.stamp,.slide{animation:none;opacity:1;stroke-dashoffset:0;transform:none}
+    }
+    text{font-kerning:normal}
+  </style>
+</defs>
+<rect width="1200" height="320" fill="#f1efea"/>
+<g class="rise">
+  <text x="64" y="206" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="104" fill="#0a0a0b" letter-spacing="1">赖选</text>
+</g>
+<g class="stamp">
+  <rect x="300" y="150" width="56" height="56" rx="2" fill="#111111"/>
+  <text x="328" y="192" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="34" fill="#f1efea" text-anchor="middle">赖</text>
+</g>
+<g class="fade">
+  <text x="1136" y="120" font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="14" letter-spacing="5" text-anchor="end" fill="#0a0a0b">LAI ZIQING</text>
+  <text x="1136" y="148" font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="13" letter-spacing="1.5" text-anchor="end" fill="#4f4f53">社会学 · 华中科技大学 · 2025</text>
+</g>
+<line class="draw" x1="64" y1="40" x2="1136" y2="40" stroke="#0a0a0b" stroke-width="1"/>
+<g class="fade">
+  <text x="64" y="76" font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#4f4f53">2026 · 主页号 · 第 3 版</text>
+</g>
+<g class="fade" style="animation-delay:1.95s">
+  <text x="64" y="268" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="24" fill="#4f4f53">把属于人的，交给人。</text>
+</g>
+<line class="slide" x1="64" y1="298" x2="304" y2="298" stroke="#d5d1c6" stroke-width="1"/>
+<line class="slide" x1="1136" y1="298" x2="1096" y2="298" stroke="#d5d1c6" stroke-width="1"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-labelledby="t2 d2">
+<title id="t2">方法：一条会回到起点的路</title>
+<desc id="d2">扰动，跨学科照亮，机制桥，自我攻击，暂定综合，回到实践。哪一步没发生，结论就降级为描述或猜想。</desc>
+<defs>
+  <style>
+    /* pathLength 归一化到 1000：任何几何下描边动画都从 0 走到头，不依赖真实弧长 */
+    .path{stroke-dasharray:1000;stroke-dashoffset:1000;animation:path 2.6s cubic-bezier(.65,0,.35,1) .2s forwards}
+    .node{opacity:0;animation:pop .5s ease-out forwards}
+    @keyframes path{to{stroke-dashoffset:0}}
+    @keyframes pop{from{opacity:0}to{opacity:1}}
+    @media (prefers-reduced-motion: reduce){
+      .path,.node{animation:none;opacity:1;stroke-dashoffset:0}
+      .tracer{display:none}
+    }
+  </style>
+</defs>
+<rect width="900" height="560" fill="#0e0d0c"/>
+<path class="path" d="M 450.0 93.0 Q 509.1 165.6 601.6 180.5 Q 568.2 268.0 601.6 355.5 Q 509.1 370.4 450.0 443.0 Q 390.9 370.4 298.4 355.5 Q 331.8 268.0 298.4 180.5 Q 390.9 165.6 450.0 93.0" fill="none" stroke="#3a352c" stroke-width="1.5" stroke-linecap="round" pathLength="1000"/>
+<g class="tracer">
+  <circle r="5" fill="#d4a04a" opacity="0">
+    <animateMotion dur="12s" begin="2.9s" repeatCount="indefinite" path="M 450.0 93.0 Q 509.1 165.6 601.6 180.5 Q 568.2 268.0 601.6 355.5 Q 509.1 370.4 450.0 443.0 Q 390.9 370.4 298.4 355.5 Q 331.8 268.0 298.4 180.5 Q 390.9 165.6 450.0 93.0"/>
+    <animate attributeName="opacity" dur="12s" begin="2.9s" repeatCount="indefinite"
+             keyTimes="0;0.05;0.86;0.96;1" values="0;1;1;0;0"/>
+  </circle>
+</g>
+
+  <g class="node n0" style="animation-delay:1.00s">
+    <circle cx="450.0" cy="93.0" r="4" fill="#ece2cf"/>
+    <text x="450.0" y="73.0" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="17" fill="#ece2cf" text-anchor="middle"><tspan font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#a99f8c">01</tspan><tspan dx="7">扰动 / 具体经验</tspan></text>
+  </g>
+  <g class="node n1" style="animation-delay:1.12s">
+    <circle cx="601.6" cy="180.5" r="4" fill="#ece2cf"/>
+    <text x="601.6" y="160.5" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="17" fill="#ece2cf" text-anchor="middle"><tspan font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#a99f8c">02</tspan><tspan dx="7">跨学科照亮</tspan></text>
+  </g>
+  <g class="node n2" style="animation-delay:1.24s">
+    <circle cx="601.6" cy="355.5" r="4" fill="#ece2cf"/>
+    <text x="601.6" y="385.5" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="17" fill="#ece2cf" text-anchor="middle"><tspan font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#a99f8c">03</tspan><tspan dx="7">机制桥</tspan></text>
+  </g>
+  <g class="node n3" style="animation-delay:1.36s">
+    <circle cx="450.0" cy="443.0" r="4" fill="#ece2cf"/>
+    <text x="450.0" y="473.0" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="17" fill="#ece2cf" text-anchor="middle"><tspan font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#a99f8c">04</tspan><tspan dx="7">自我攻击</tspan></text>
+  </g>
+  <g class="node n4" style="animation-delay:1.48s">
+    <circle cx="298.4" cy="355.5" r="4" fill="#ece2cf"/>
+    <text x="298.4" y="385.5" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="17" fill="#ece2cf" text-anchor="middle"><tspan font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#a99f8c">05</tspan><tspan dx="7">暂定综合</tspan></text>
+  </g>
+  <g class="node n5" style="animation-delay:1.60s">
+    <circle cx="298.4" cy="180.5" r="4" fill="#ece2cf"/>
+    <text x="298.4" y="160.5" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="17" fill="#ece2cf" text-anchor="middle"><tspan font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#a99f8c">06</tspan><tspan dx="7">回到实践</tspan></text>
+  </g>
+<text x="450" y="262" font-family="'IBM Plex Mono',ui-monospace,Consolas,'Courier New',monospace" font-size="12" letter-spacing="2.5" fill="#a99f8c" text-anchor="middle">METHOD / 6 STEPS</text>
+<text x="450" y="288" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,serif" font-size="15" fill="#a99f8c" text-anchor="middle">哪一步没发生，结论就降级</text>
+</svg>
