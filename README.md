@@ -41,7 +41,7 @@ Currently working on: completing my qualifying paper, notes and videos on the so
 |---|---|---|
 | 研究设计 | 把模糊的问题拆成可观测、可反驳的结构，并预先写清它证明不了什么 | [Open Possibility Lab](https://github.com/peishenglai3-hash/open-possibility-lab) |
 | 系统架构 | 把流程做成可回放的一等对象：原始事件、可重建状态、残差与反思 | [Praxis Runtime](https://github.com/peishenglai3-hash/praxis-runtime) · [TFRK](https://github.com/peishenglai3-hash/the_final-runtime-kernel) |
-| 前后端 | 从数据层做到能玩的界面，含桌面打包 | [《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu_game) · [学工 AI 助手](https://github.com/peishenglai3-hash/student-affair-AI-assistant) |
+| 前后端 | 从数据层做到能玩的界面，含桌面打包 | [《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu-chronicles) · [学工 AI 助手](https://github.com/peishenglai3-hash/student-affair-AI-assistant) |
 | 数据与测量 | 写量表、跑统计、把口径写进文档；知道一份问卷哪一步会失真 | [ALIS 量表](https://github.com/peishenglai3-hash/alis-ai-literacy-survey) · [cohortlens](https://github.com/peishenglai3-hash/cohortlens) |
 | 发布与运维 | 打 tag、发 Release、写变更说明；别人拿得到、跑得起来 | [DSH Research Mode Releases](https://github.com/peishenglai3-hash/dsh-research-mode/releases) |
 | 写作与表达 | 用第一人称写机制，不用形容词代替论证 | 本页 [#边界](#边界) · [Mohen-read](https://github.com/peishenglai3-hash/Mohen-read) |
@@ -78,7 +78,7 @@ Currently working on: completing my qualifying paper, notes and videos on the so
 
 ### 二 · 可玩与叙事　`把一段历史做成能走进去的场`
 
-**[《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu_game)**
+**[《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu-chronicles)**
 <br><sub>像素风叙事 RPG：从当代实践队走进 1927 年的洪湖。序章与第一至第四章已连成可玩闭环。</sub>
 <br>**〔可玩项目〕** Phaser 3.90 / Vue 3 / TypeScript / Electron　<sub>PWA 与 Electron 集成在 `feature/pwa-resource-loading`；素材授权需逐项核对。</sub>
 
@@ -178,6 +178,24 @@ Most of it is prototype work. The status line under each project says what that 
 Email: peishenglai3@gmail.com
 
 </details>
+
+## 已归档项目
+
+以下仓库保存了阶段性成果，当前按归档快照维护；各自 README 说明了项目状态、隐私范围和许可证。
+
+### 研究与校园原型
+
+- [团宠 · 团队认知引擎](https://github.com/peishenglai3-hash/team-cognition-engine) — 集体认知研究原型归档。
+- [Campus Policy Agent](https://github.com/peishenglai3-hash/campus-policy-agent) — 使用合成知识卡片的证据问答原型。
+- [Campus Learning Hub](https://github.com/peishenglai3-hash/campus-learning-hub) — 去身份化的校园信息 demo。
+- [社小会](https://github.com/peishenglai3-hash/she-xiao-hui) — 隐私优先的数字人交互示例。
+
+### 游戏与桌面陪伴
+
+- [《红色源代码：洪湖篇》](https://github.com/peishenglai3-hash/honghu-chronicles) — 序章与第 1–4 章代码归档。
+- [洪湖篇美术资产](https://github.com/peishenglai3-hash/honghu-game-assets) — 序章与第 1–4 章美术资产。
+- [Desktop Pet Tauri](https://github.com/peishenglai3-hash/desktop-pet-tauri) — Windows 桌宠 MVP 归档。
+- [Pet Motion Library](https://github.com/peishenglai3-hash/pet-motion-library) — 六段桌宠动作视频及元数据清理副本。
 
 ## 版权页
 
