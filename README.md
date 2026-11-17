@@ -84,7 +84,7 @@ Currently working on: completing my qualifying paper, notes and videos on the so
 
 ### 三 · 校园与社会调查　`把一份问卷做成一个能用的东西`
 
-**[社小会 · She Xiao Hui](https://github.com/peishenglai3-hash/she-xiao-hui-open-source)**
+**[社小会 · She Xiao Hui](https://github.com/peishenglai3-hash/she-xiao-hui)**
 <br><sub>面向社会学学习与校园生活的数字人示例，公开版删去真实名录与凭据。</sub>
 
 **[学工 AI 助手](https://github.com/peishenglai3-hash/student-affair-AI-assistant)**
